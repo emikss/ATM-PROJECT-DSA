@@ -19,7 +19,7 @@ The repository will contain the following:
 - **transaction module** - source code for ATM transaction processes
 - **registration module** - source code for ATM account creation
 - **database file** - file containing accounts pushed into the repository
-- 
+  
 ---
 
 <h2 align="left" > Github Collaboration: </h2>
