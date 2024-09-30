@@ -12,8 +12,8 @@ This project is a Automated Teller Machine built in **C++ Language** with the us
 
 ---
 
-There will be **two modules** built which are the process of creating an account and for usual ATM transaction processes such as **Balance Inquiry, Withdraw Cash, Bank Transfer, etc.**.
-This repository will be used as a storage for source codes and a database for the accounts that will be created or registered.
+<p>&nbsp;There will be **two modules** built which are the process of creating an account and for usual ATM transaction processes such as **Balance Inquiry, Withdraw Cash, Bank Transfer, etc.**.
+This repository will be used as a storage for source codes and a database for the accounts that will be created or registered.</p>
 
 The repository will contain the following:
 - **transaction module** - source code for ATM transaction processes
@@ -29,4 +29,16 @@ Must have:
 - GitHub Account
 - GitHub Desktop Application
 
-<h3 align="left" > Cloning Repository from Github Website to your own PC. </h2>
+<h3 align="left" > 1. Cloning Repository from Github Website to your own PC </h2>
+    <p>Click the current repository in the top-right corner of the interface and click **add** then *Clone Repository*.</p>
+    <img src="./assets/clone_repo.png" alt=""/> </a> 
+    <p>Choose the repository **ATM-PROJECT-DSA**.</p>
+    <img src="./assets/pick_repo.png" alt=""/> </a> 
+
+<h3 align="left" > 2. Creating your own branch. </h2>
+    <p>Click *current branch tab* beside the *current repository tab*.</p>
+    <img src="./assets/create_branch.png" alt=""/> </a> 
+    <p>Click *New Branch* and name your branch.</p>
+    <img src="./assets/name_branch.png" alt=""/> </a> 
+    <p>*Creating branch will avoid committing any direct changes into the main branch or files.*</p>
+
