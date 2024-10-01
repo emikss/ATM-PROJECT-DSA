@@ -49,14 +49,12 @@ Must have:
     <img src="./assets/fetch_origin.png" alt=""/> </a> 
     <p>Click branch and choose your branch then click <b>Choose a branch...</b> at the bottom of the panel then <b>choose the main branch.</b></p>
     <img src="./assets/merge_commit.png" alt=""/>
-    <p>Open the repository in Visual Studio Code.</p>
-    <img src="./assets/open_vs.png" alt=""/> </a> 
-    <h4><b>You can now start coding!</b></h4>
-
+    
 <h3 align="left" > 4. Open your repository </h3>
     <p>Click <b>open in Visual Studio Code</b>.</p>
     <img src="./assets/open_vs.png" alt=""/> 
-
+    <h4><b>You can now start coding!</b></h4>
+  
 <h3 align="left" > 5. Pulling files to the repository </h3>
     <h4>Committing and pushing files to the repositories are basically uploading the file to the repository. This is the most important step after you finished working.</h4>
     <p>Firstly, write a summary of your changes. It can be anything like simple title of your work or a letter.</p>
