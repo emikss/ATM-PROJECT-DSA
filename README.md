@@ -6,7 +6,7 @@
 - Neo Gariando
 - Raphael Espiritu
  ---
-This project is a Automated Teller Machine built in **C++ Language** with the use of *WxWidgets* and *Visual Studio*, which instead of using an **ATM CARD**, it will use a *flash drive* .
+This project is a Automated Teller Machine built in **C++ Language** which instead of using an **ATM CARD**, it will use a *flash drive*.
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
 
@@ -41,4 +41,7 @@ Must have:
     <p>Click *New Branch* and name your branch.</p>
     <img src="./assets/name_branch.png" alt=""/> </a> 
     <p>*Creating branch will avoid committing any direct changes into the main branch or files.*</p>
+
+<h3 align="left" > 2. Creating your own branch. </h2>
+    <p>
 
