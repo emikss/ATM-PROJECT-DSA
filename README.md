@@ -29,19 +29,29 @@ Must have:
 - GitHub Account
 - GitHub Desktop Application
 
-<h3 align="left" > 1. Cloning Repository from Github Website to your own PC </h2>
-    <p>Click the current repository in the top-right corner of the interface and click **add** then *Clone Repository*.</p>
+<h3 align="left" > 1. Cloning Repository from Github Website to your own PC </h3>
+    <p>Click the current repository in the top-right corner of the interface and click <b>add</b> then <b>Clone Repository</b>.</p>
     <img src="./assets/clone_repo.png" alt=""/> </a> 
-    <p>Choose the repository **ATM-PROJECT-DSA**.</p>
+    <p>Choose the repository <b>ATM-PROJECT-DSA</b>.</p>
     <img src="./assets/pick_repo.png" alt=""/> </a> 
 
-<h3 align="left" > 2. Creating your own branch. </h2>
-    <p>Click *current branch tab* beside the *current repository tab*.</p>
+<h3 align="left" > 2. Creating your own branch. </h3>
+    <p>Click <b>current branch tab</b> beside the <b>current repository tab</b>.</p>
     <img src="./assets/create_branch.png" alt=""/> </a> 
-    <p>Click *New Branch* and name your branch.</p>
+    <p>Click <b>New Branch<b> and name your branch.</p>
     <img src="./assets/name_branch.png" alt=""/> </a> 
-    <p>*Creating branch will avoid committing any direct changes into the main branch or files.*</p>
+    <h4><b>Creating branch will avoid committing any direct changes into the main branch or files.</b></h4>
 
-<h3 align="left" > 2. Creating your own branch. </h2>
-    <p>
+<h3 align="left" > 3. Fetching origin or pulling files from GitHub to your PC </h3>
+    <h4>This step should always be done before making any changes to any files to make sure you have the <b>latest files of the repository.</b></h4>
+    <p>Click <b>Fetch Origin</b> beside the branch tab.</p>
+    <img src="./assets/fetch_origin.png" alt=""/> </a> 
+    <h4><b>You can now start coding! </b></h4>
+
+<h3 align="left" > 4. Pushing files to the repository </h3>
+    <h4>Committing and pushing files to the repositories are basically uploading the file to the repository. This is the most important step after you finished working.</b></h4>
+    <p>Firstly, write a summary of your changes. It can be anything like simple title of your work or a letter.</p>
+    <img src="./assets/commit_branch.png" alt=""/> </a> 
+    <h4><b>Make sure that you committing to you</b></h4>
+    
 
