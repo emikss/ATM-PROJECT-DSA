@@ -48,6 +48,7 @@ Must have:
     <p>Click <b>Fetch Origin</b> beside the branch tab.</p>
     <img src="./assets/fetch_origin.png" alt=""/> </a> 
     <p>Click branch and choose your branch then click <b>Choose a branch...</b> at the bottom of the panel then <b>choose the main branch.</b></p>
+    <img src="./assets/merge_commit.png" alt=""/>
     <p>Open the repository in Visual Studio Code.</p>
     <img src="./assets/open_vs.png" alt=""/> </a> 
     <h4><b>You can now start coding!</b></h4>
