@@ -1,19 +1,82 @@
 #include <iostream>
+#include <string>
 using namespace std;
+
+void mainMenu();
+
+struct Account{
+    string name;
+    int id;
+    int pass;
+};
+
+class dikopaalam{
+    private:
+
+    public:
+    
+};
+
+
 int main(){
 
-    int lulu;
+    int choice;
 
-    cout << "ATM";
-    cout << " MACHINE";
-    cout << "\nsi sean nag lulu";
-    cout << "\nPress 1 if YES";
-    cout << "\nPress 2 if NO\n";
-    cin >> lulu;
-
-    if (lulu == 1){
-        cout << "bastos si sean";
-    }else{
-        cout << "mabuti si sean";
-    }
+    mainMenu();
+  
 }
+
+void mainMenu(){
+    cout << "***************************";
+    cout << "\n\tATM MACHINE\n";
+    cout << "***************************";
+    cout << "\n1.) Login";
+    cout << "\n2.) Create Account";
+    cout << "\nEnter your choice: ";
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
