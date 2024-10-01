@@ -58,9 +58,10 @@ Must have:
     <p>Firstly, write a summary of your changes. It can be anything like simple title of your work or a letter.</p>
     <img src="./assets/commit_branch.png" alt=""/> </a> 
     <p><i>Make sure that you committing to your branch.</i></p>
-    <p>Then, click <b>push origin</b> and <b>create pull request</b>.
+    <p>Then, click <b>push origin</b> and <b>create pull request</p>.
     <img src="./assets/push_change.png" alt=""/> </a> 
     <img src="./assets/create_req.png" alt=""/> </a> 
+    <br>
     <p>then wait for the owner to accept your pull request for merging.</p>
     <img src="./assets/git_pull.png" alt=""/> </a> 
     <h1 align='center'>Good Luck!~</h1>
