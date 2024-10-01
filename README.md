@@ -1,7 +1,7 @@
 <h1 align="center">🖥️ATM MACHINE PROJECT in DSA💳</h1>
 
 🧑‍💻 Developers: 
-- Sean Lucino,
+- Sean Lucino
 - Ralf Neis
 - Neo Gariando
 - Raphael Espiritu
@@ -46,7 +46,9 @@ Must have:
 <h3 align="left" > 3. Fetching origin from GitHub to your PC </h3>
     <h4>This step should always be done before making any changes to any files to make sure you have the <b>latest files of the repository.</b></h4>
     <p>Click <b>Fetch Origin</b> beside the branch tab.</p>
-    <img src="./assets/fetch_origin.png" alt=""/> 
+    <img src="./assets/fetch_origin.png" alt=""/> </a> 
+    <p>Open the repository in Visual Studio Code.</p>
+    <img src="./assets/open_vs.png" alt=""/> </a> 
     <h4><b>You can now start coding!</b></h4>
 
 <h3 align="left" > 4. Open your repository </h3>
