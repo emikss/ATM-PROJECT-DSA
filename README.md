@@ -1,7 +1,7 @@
 <h1 align="center">🖥️ATM MACHINE PROJECT in DSA💳</h1>
 
 🧑‍💻 Developers: 
-- Sean Lucino,
+- Sean Lucino
 - Ralf Neis
 - Neo Gariando
 - Raphael Espiritu
