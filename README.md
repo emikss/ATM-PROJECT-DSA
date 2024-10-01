@@ -52,6 +52,7 @@ Must have:
     <h4>Committing and pushing files to the repositories are basically uploading the file to the repository. This is the most important step after you finished working.</b></h4>
     <p>Firstly, write a summary of your changes. It can be anything like simple title of your work or a letter.</p>
     <img src="./assets/commit_branch.png" alt=""/> </a> 
-    <h4><b>Make sure that you committing to you</b></h4>
+    <h4><b>Make sure that you committing to your branch.</b></h4>
+    <h1 align='center'>Good Luck!~</h1>
     
 
