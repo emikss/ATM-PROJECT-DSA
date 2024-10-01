@@ -35,12 +35,13 @@ Must have:
     <p>Choose the repository <b>ATM-PROJECT-DSA</b>.</p>
     <img src="./assets/pick_repo.png" alt=""/> </a> 
 
-<h3 align="left" > 2. Creating your own branch. </h3>
+<h3 align="left" > 2. Creating your own branch </h3>
     <p>Click <b>current branch tab</b> beside the <b>current repository tab</b>.</p>
     <img src="./assets/create_branch.png" alt=""/> </a> 
     <p>Click <b>New Branch<b> and name your branch.</p>
     <img src="./assets/name_branch.png" alt=""/> </a> 
     <h4><b>Creating branch will avoid committing any direct changes into the main branch or files.</b></h4>
+
 
 <h3 align="left" > 3. Fetching origin or pulling files from GitHub to your PC </h3>
     <h4>This step should always be done before making any changes to any files to make sure you have the <b>latest files of the repository.</b></h4>
@@ -48,7 +49,11 @@ Must have:
     <img src="./assets/fetch_origin.png" alt=""/> </a> 
     <h4><b>You can now start coding!</b></h4>
 
-<h3 align="left" > 4. Pushing files to the repository </h3>
+<h3 align="left" > 4. Open your repository </h3>
+    <p>Click <b>open in Visual Studio Code</b>.</p>
+    <img src="./assets/open_vs.png" alt=""/> </a> 
+
+<h3 align="left" > 5. Pushing files to the repository </h3>
     <h4>Committing and pushing files to the repositories are basically uploading the file to the repository. This is the most important step after you finished working.</h4>
     <p>Firstly, write a summary of your changes. It can be anything like simple title of your work or a letter.</p>
     <img src="./assets/commit_branch.png" alt=""/> </a> 
