@@ -43,7 +43,7 @@ Must have:
     <h4><b>Creating branch will avoid committing any direct changes into the main branch or files.</b></h4>
 
 
-<h3 align="left" > 3. Fetching origin or pulling files from GitHub to your PC </h3>
+<h3 align="left" > 3. Fetching origin from GitHub to your PC </h3>
     <h4>This step should always be done before making any changes to any files to make sure you have the <b>latest files of the repository.</b></h4>
     <p>Click <b>Fetch Origin</b> beside the branch tab.</p>
     <img src="./assets/fetch_origin.png" alt=""/> </a> 
@@ -53,12 +53,12 @@ Must have:
     <p>Click <b>open in Visual Studio Code</b>.</p>
     <img src="./assets/open_vs.png" alt=""/> </a> 
 
-<h3 align="left" > 5. Pushing files to the repository </h3>
+<h3 align="left" > 5. Pulling files to the repository </h3>
     <h4>Committing and pushing files to the repositories are basically uploading the file to the repository. This is the most important step after you finished working.</h4>
     <p>Firstly, write a summary of your changes. It can be anything like simple title of your work or a letter.</p>
     <img src="./assets/commit_branch.png" alt=""/> </a> 
     <h4><i>Make sure that you committing to your branch.</i></h4>
-    <h4>Then, click <b><push origin</b> and wait for the owner to accept your push request.</h4>
+    <h4>Then, click <b>push origin</b> and <b>create pull request</b> then wait for the owner to accept your pull request for merging.</h4>
     <h1 align='center'>Good Luck!~</h1>
     
 
