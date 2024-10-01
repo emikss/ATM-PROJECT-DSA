@@ -57,8 +57,12 @@ Must have:
     <h4>Committing and pushing files to the repositories are basically uploading the file to the repository. This is the most important step after you finished working.</h4>
     <p>Firstly, write a summary of your changes. It can be anything like simple title of your work or a letter.</p>
     <img src="./assets/commit_branch.png" alt=""/> </a> 
-    <h4><i>Make sure that you committing to your branch.</i></h4>
-    <h4>Then, click <b>push origin</b> and <b>create pull request</b> then wait for the owner to accept your pull request for merging.</h4>
+    <p><i>Make sure that you committing to your branch.</i></p>
+    <p>Then, click <b>push origin</b> and <b>create pull request</b>.
+    <img src="./assets/push_change.png" alt=""/> </a> 
+    <img src="./assets/create_req.png" alt=""/> </a> 
+    <p>then wait for the owner to accept your pull request for merging.</p>
+    <img src="./assets/git_pull.png" alt=""/> </a> 
     <h1 align='center'>Good Luck!~</h1>
     
 
