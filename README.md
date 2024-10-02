@@ -23,11 +23,14 @@ The repository will contain the following:
 ---
 
 <h2 align="left" > Github Collaboration: </h2>
-Must have:
-- VS CODE (back-end)
-- Visual Studio 2022 (front-end)
-- GitHub Account
-- GitHub Desktop Application
+<p>Must have:</p>
+<ul>
+<li>VS CODE (back-end)</li>
+<li>Visual Studio 2022 (front-end)</li>
+<li>GitHub Account</li>
+<li>GitHub Desktop Application</li>
+</ul>
+
 
 <h3 align="left" > 1. Cloning Repository from Github Website to your own PC </h3>
     <p>Click the current repository in the top-right corner of the interface and click <b>add</b> then <b>Clone Repository</b>.</p>
