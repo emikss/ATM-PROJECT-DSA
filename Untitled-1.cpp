@@ -4,9 +4,8 @@
 #include <cstdlib>
 #include <ctime>
 #include <iomanip>
+
 using namespace std;
-
-
 
 void mainMenu();
 
