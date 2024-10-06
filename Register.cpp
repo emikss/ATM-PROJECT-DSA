@@ -56,8 +56,8 @@ void createAccount(std::map<std::string, Account>& accounts) {
         std::cout << "Enter initial balance: ";
         std::cin >> account.balance;
         if (std::cin.fail()) {
-            std::cin.clear(); // Clear the error flag
-            std::cin.ignore(INT_MAX, '\n'); // Ignore bad input
+            std::cin.clear(); 
+            std::cin.ignore(INT_MAX, '\n'); 
             std::cout << "Invalid balance! Please enter a valid number." << std::endl;
         } else {
             valid_balance = true;
